@@ -1,4 +1,6 @@
-amount=int(input("enter your amount"))
-note100=amount//100
-note50=(amount%100)//50
-print(note100)
+age=int(input("enter age"))
+if age >=18:
+    print("you can give the vote") 
+else:
+    print("you are notable")
+      
