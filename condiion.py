@@ -1,5 +1,9 @@
-num=3
-if num > 0:
-    print ("num s apositive num")
+a=30
+b=20
+c=10
+if a>b and a>c:
+    print("a is biggest")
+elif b>c :
+    print("b is biggest ")
 else:
-    print("num s nagitive num")
+    print("c is biggest")
