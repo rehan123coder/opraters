@@ -1,0 +1,6 @@
+list1=[1,2]
+print(1  not in list1)
+a=3
+b=2
+print(a & b)
+print(a | b)
