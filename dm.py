@@ -1,6 +1,5 @@
 age=int(input("enter age"))
-if age >=18:
-    print("you can give the vote") 
+if age >=10 and <=20:
+    print("you  can do this progect") 
 else:
-    print("you are notable")
-      
+    print("you  can not do this progect ")
